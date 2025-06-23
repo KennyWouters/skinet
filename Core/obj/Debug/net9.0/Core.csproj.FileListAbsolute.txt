@@ -1,0 +1,14 @@
+/home/k/RiderProjects/skinet/Core/bin/Debug/net9.0/Core.deps.json
+/home/k/RiderProjects/skinet/Core/bin/Debug/net9.0/Core.dll
+/home/k/RiderProjects/skinet/Core/bin/Debug/net9.0/Core.pdb
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.csproj.AssemblyReference.cache
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.dll
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/refint/Core.dll
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.pdb
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/ref/Core.dll
+/home/k/RiderProjects/skinet/Core/bin/Debug/net9.0/Core.runtimeconfig.json
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.genruntimeconfig.cache

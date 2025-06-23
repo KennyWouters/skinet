@@ -1,0 +1,17 @@
+/home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Infrastructure.runtimeconfig.json
+/home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.genruntimeconfig.cache
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll
+/home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Core.dll
+/home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Core.pdb
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date

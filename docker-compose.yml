@@ -1,0 +1,12 @@
+
+services:
+  sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "P@ssw0rd!"
+      MSSQL_PID: "Developer"
+    ports:
+      - "1433:1433"
+    mem_limit: 2g
+
