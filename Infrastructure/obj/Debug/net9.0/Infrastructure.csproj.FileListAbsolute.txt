@@ -15,3 +15,4 @@
 /home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Core.dll
 /home/k/RiderProjects/skinet/Infrastructure/bin/Debug/net9.0/Core.pdb
 /home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/home/k/RiderProjects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.sourcelink.json

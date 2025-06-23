@@ -12,3 +12,4 @@
 /home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/ref/Core.dll
 /home/k/RiderProjects/skinet/Core/bin/Debug/net9.0/Core.runtimeconfig.json
 /home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.genruntimeconfig.cache
+/home/k/RiderProjects/skinet/Core/obj/Debug/net9.0/Core.sourcelink.json
