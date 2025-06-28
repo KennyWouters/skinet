@@ -4787,24 +4787,32 @@
     ]
   },
   "packageFolders": {
-    "/home/k/.nuget/packages/": {}
+    "C:\\Users\\kende\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/k/RiderProjects/skinet/Core/Core.csproj",
+      "projectUniqueName": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "/home/k/RiderProjects/skinet/Core/Core.csproj",
-      "packagesPath": "/home/k/.nuget/packages/",
-      "outputPath": "/home/k/RiderProjects/skinet/Core/obj/",
+      "projectPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\kende\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/k/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kende\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4868,7 +4876,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/k/.dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
