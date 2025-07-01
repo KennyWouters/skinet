@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\API\\API.csproj": {}
+    "C:\\Users\\kende\\RiderProjects\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\API\\API.csproj": {
+    "C:\\Users\\kende\\RiderProjects\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\kende\\RiderProjects\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\API\\API.csproj",
+        "projectPath": "C:\\Users\\kende\\RiderProjects\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\kende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\API\\obj\\",
+        "outputPath": "C:\\Users\\kende\\RiderProjects\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj"
+              "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\Core.csproj"
               },
-              "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\kende\\RiderProjects\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kende\\RiderProjects\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj": {
+    "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\kende\\RiderProjects\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\kende\\RiderProjects\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\kende\\RiderProjects\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\kende\\RiderProjects\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -223,8 +223,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kende\\source\\repos\\KennyWouters\\skinet\\Core\\Core.csproj"
+              "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kende\\RiderProjects\\skinet\\Core\\Core.csproj"
               }
             }
           }
