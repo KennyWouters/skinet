@@ -9,14 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba7e2d8f-7455-43d6-9306-20b4f3899d99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net9.0/API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net9.0/API.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +148,7 @@
       <workItem from="1751451710650" duration="15938000" />
       <workItem from="1751471511337" duration="4636000" />
       <workItem from="1751476684365" duration="28000" />
+      <workItem from="1751488643737" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
