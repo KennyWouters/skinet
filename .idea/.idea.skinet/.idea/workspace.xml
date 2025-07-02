@@ -9,10 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba7e2d8f-7455-43d6-9306-20b4f3899d99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/API/RequestsHelpers/Pagination.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Interfaces/ISpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Interfaces/ISpecification.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core/Specifications/BaseSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specifications/BaseSpecification.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Specifications/ProductSpecParams.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specifications/ProductSpecParams.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Specifications/ProductSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specifications/ProductSpecification.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89c2e48006e94e89ab07a58cb2a1281a291448/ad/d93994ef/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7e333a9f3297ba553cccfd3b7c3f1f96125b23d09f883e4d6e66d531559a4c/Type.CoreCLR.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/db7395f4add94e6d10e515b3e55373f2821f8323de7dc8e314d78feefacf5584/ActionMethodExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/k/RiderProjects/skinet/Core/Specifications/BaseSpecification.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -72,7 +74,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "RiderCSharpLiveTemplatesSettingsId",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -133,7 +135,7 @@
       <workItem from="1750693501117" duration="5923000" />
       <workItem from="1750757470916" duration="5765000" />
       <workItem from="1751368687843" duration="1236000" />
-      <workItem from="1751451710650" duration="11586000" />
+      <workItem from="1751451710650" duration="13157000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -223,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751463649805</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added pagination WIP">
+      <option name="closed" value="true" />
+      <created>1751464499349</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1751464499349</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +277,8 @@
     <MESSAGE value="Specification pattern WIP" />
     <MESSAGE value="End of Section 4 Specification Pattern" />
     <MESSAGE value="created product specParams" />
-    <option name="LAST_COMMIT_MESSAGE" value="created product specParams" />
+    <MESSAGE value="Added pagination WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pagination WIP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

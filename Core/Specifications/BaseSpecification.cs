@@ -1,5 +1,6 @@
 using System.Linq.Expressions;
 using Core.Interfaces;
+using Microsoft.Data.SqlClient.DataClassification;
 
 namespace Core.Specifications;
 
@@ -46,4 +47,5 @@ public class BaseSpecification<T, TResult>(Expression<Func<T, bool>> criteria)
     {
         Select = selectExpression;
     }
+    
 }
