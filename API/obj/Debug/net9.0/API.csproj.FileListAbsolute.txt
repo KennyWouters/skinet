@@ -162,8 +162,6 @@
 /home/k/RiderProjects/skinet/API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /home/k/RiderProjects/skinet/API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /home/k/RiderProjects/skinet/API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-/home/k/RiderProjects/skinet/API/bin/Debug/net9.0/System.Text.Json.dll
-/home/k/RiderProjects/skinet/API/obj/Debug/net9.0/staticwebassets.build.json.cache
 /home/k/RiderProjects/skinet/API/obj/Debug/net9.0/API.sourcelink.json
 C:/Users/kende/source/repos/KennyWouters/skinet/API/bin/Debug/net9.0/appsettings.Development.json
 C:/Users/kende/source/repos/KennyWouters/skinet/API/bin/Debug/net9.0/appsettings.json
@@ -500,3 +498,5 @@ C:/Users/kende/RiderProjects/skinet/API/obj/Debug/net9.0/refint/API.dll
 C:/Users/kende/RiderProjects/skinet/API/obj/Debug/net9.0/API.pdb
 C:/Users/kende/RiderProjects/skinet/API/obj/Debug/net9.0/API.genruntimeconfig.cache
 C:/Users/kende/RiderProjects/skinet/API/obj/Debug/net9.0/ref/API.dll
+/home/k/RiderProjects/skinet/API/bin/Debug/net9.0/System.Text.Json.dll
+/home/k/RiderProjects/skinet/API/obj/Debug/net9.0/staticwebassets.build.json.cache
