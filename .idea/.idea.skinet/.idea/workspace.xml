@@ -9,10 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba7e2d8f-7455-43d6-9306-20b4f3899d99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Core/Specifications/ProductSpecParams.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.skinet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/Controllers/ProductsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Controllers/ProductsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Specifications/ProductSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specifications/ProductSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Interfaces/ISpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Interfaces/ISpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Specifications/BaseSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Specifications/BaseSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/Data/SpecificationEvaluator.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <workItem from="1750693501117" duration="5923000" />
       <workItem from="1750757470916" duration="5765000" />
       <workItem from="1751368687843" duration="1236000" />
-      <workItem from="1751451710650" duration="10753000" />
+      <workItem from="1751451710650" duration="11586000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -215,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751462198952</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="created product specParams">
+      <option name="closed" value="true" />
+      <created>1751463649805</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1751463649805</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +266,8 @@
     <MESSAGE value="workspace.xml updated" />
     <MESSAGE value="Specification pattern WIP" />
     <MESSAGE value="End of Section 4 Specification Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of Section 4 Specification Pattern" />
+    <MESSAGE value="created product specParams" />
+    <option name="LAST_COMMIT_MESSAGE" value="created product specParams" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
