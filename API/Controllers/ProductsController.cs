@@ -2,7 +2,6 @@ using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
 using Microsoft.AspNetCore.Mvc;
-using skinet.RequestsHelpers;
 namespace skinet.Controllers;
 public class ProductsController(IGenericRepository<Product> repo): BaseApiController
 {
