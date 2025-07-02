@@ -1,6 +1,7 @@
 using Core.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Infrastructure.Data;
+using skinet.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("MyCors", builder =>
     {
-        builder.WithOrigins("http://localhost:4200");
+        builder.WithOrigins("http://localhost:4200", "https://localhost:4200");
         builder.AllowAnyHeader();
         builder.AllowAnyMethod();
     });
@@ -26,8 +27,14 @@ builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepositor
 
 var app = builder.Build();
 
+app.UseMiddleware<ExceptionMiddleware>();
+
+
+
 app.UseHttpsRedirection();
+
 app.UseCors("MyCors");
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -35,10 +42,10 @@ if (app.Environment.IsDevelopment())
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1");
     });
-    
 }
 
 app.UseRouting();
+
 app.MapControllers();
 
 try
